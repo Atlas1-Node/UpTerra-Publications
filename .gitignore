@@ -1,0 +1,3 @@
+# Plaintext blog sources — never commit. Sources live locally; the repo
+# only ever contains encrypted, gated outputs.
+blog/_src/
